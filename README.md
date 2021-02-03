@@ -1,1 +1,1 @@
-# google-homepage
+My implementation of Odin Project assingment "Google Homepage".
